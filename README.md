@@ -1,4 +1,5 @@
 # Automated-door-lock-system   
+
 An Arduino-based security system that uses a keypad for password entry and a servo motor to control the locking mechanism. Created and simulated in **Tinkercad**.
 
 ## 🚀 How it Works
