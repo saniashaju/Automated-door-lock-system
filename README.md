@@ -15,5 +15,4 @@ An Arduino-based security system that uses a keypad for password entry and a ser
 * **Input**: 4x4 Membrane Keypad
 * **Output**: I2C LCD (16x2), Servo Motor, Piezo Buzzer
 
-## ⚡ Circuit Diagram
-![Circuit Diagram](./https://github.com/saniashaju/Automated-door-lock-system/blob/main/Automated_door_lock_img.png.png)
+
